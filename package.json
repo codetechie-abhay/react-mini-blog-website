@@ -2,7 +2,6 @@
   "homepage":"https://codetechie-abhay.github.io/react-mini-blog-website",
   "name": "react-mini-blog",
   "version": "0.1.0",
-  "homepage": "https://zonayedpca.github.io/react-mini-blog",
   "private": true,
   "dependencies": {
     "draft-js": "^0.10.5",
